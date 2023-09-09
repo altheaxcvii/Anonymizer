@@ -1,3 +1,7 @@
+# Copyright (c) 2023 Lim Qian Wei (Althea)
+# Licensed under the MIT License.
+# Github: https://github.com/altheaxcvii
+# Linkedin: https://www.linkedin.com/in/qianweilim/
 # %%
 import pandas as pd
 import tkinter as tk
